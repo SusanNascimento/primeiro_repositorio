@@ -1,0 +1,79 @@
+img, header{
+    height: 200px;
+    display: block;
+
+}
+
+main{
+    height: 50px;
+    padding: 50px;
+    font-size:20px ;
+    font-style:oblique ;
+    font-weight: bold;
+    line-height: 1;
+    display:inline-block;
+}
+
+
+nav{
+    font-size:30px ;
+    font-style:italic ;
+    font-weight: bold;
+    line-height: 1.5;
+    text-align: center;
+   
+}
+ 
+h1{
+
+    text-align: center;
+    font-style:italic ;
+    display:inline;
+    color:brown;
+}
+
+.honda{
+    height: 45px;
+    display: block;
+    margin:25px;
+    height: 70px;
+    
+}
+
+#titulo{
+    color:rgb(121, 15, 15);
+    text-align:left;
+    font-style: initial;
+    background-color: rgb(218, 154, 154);
+    padding: 5%;
+}
+footer{
+
+    text-align: center;
+    position: absolute;
+    bottom:3px;
+    display: block;
+    width: 100%;
+    background-color: rgb(218, 154, 154);
+    height: 35px;
+    font-style:italic;
+    text-align: center;
+}
+li{
+    text-align: center;
+    display: inline-block;
+    list-style: none;
+    
+    
+}
+h2{
+    display: inline-block;
+    height: 60px;
+    color:brown;
+
+}
+header {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
